@@ -1,14 +1,3 @@
-##########################################################
-
-#              Programmer: ShAms LA
-#              GitHub: https://github.com/shams-la
-#              Email: contact.shams.in@gmail.com
-
-##########################################################
-
-# Simple And Customizable Module And GUI Window For Creating And Sending Bug Reports
-
-
 from tkinter import *
 from tkinter import ttk, scrolledtext
 import threading, smtplib
